@@ -14,7 +14,7 @@ For each test case, add
 A and B and display the sum in a new line.
 
 ## Constraints
-1<= T <=1000
+1<= T <=1000 <br>
 0<=A,B<=10000
 ## Sample 1:
 ## Input          Output
